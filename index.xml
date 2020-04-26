@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spiritualizing Technology</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Spiritualizing Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2020 21:07:17 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 25 Apr 2020 21:07:17 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This site features articles and tutorials to help spiritually minded folk understand technology.
+About the Author My name is Wendy Closson.
+In 1998, I was a programming geek who loved weight lifting, anime, and video games.
+In 2008, I became a mom &amp;ndash; that was really hard!
+In 2009, I was diagnosed with a rare cancer &amp;ndash; that was much worse!
+After a year of experimental treatment, I was physically, emotionally, and mentally broken.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+  </channel>
+</rss>
