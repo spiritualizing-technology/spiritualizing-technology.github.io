@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spiritualizing Technology</title>
-    <link>http://spiritualizing.technology/</link>
+    <link>https://spiritualizing.technology/</link>
     <description>Recent content on Spiritualizing Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 21:07:17 -0400</lastBuildDate>
     
-	<atom:link href="http://spiritualizing.technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spiritualizing.technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>http://spiritualizing.technology/posts/my-first-post/</link>
+      <link>https://spiritualizing.technology/posts/my-first-post/</link>
       <pubDate>Sat, 25 Apr 2020 21:07:17 -0400</pubDate>
       
-      <guid>http://spiritualizing.technology/posts/my-first-post/</guid>
+      <guid>https://spiritualizing.technology/posts/my-first-post/</guid>
       <description>Hello World!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://spiritualizing.technology/about/</link>
+      <link>https://spiritualizing.technology/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://spiritualizing.technology/about/</guid>
+      <guid>https://spiritualizing.technology/about/</guid>
       <description>This site features articles and tutorials to help spiritually minded folk understand technology.
 About the Author My name is Wendy Closson.
 In 1998, I was a programming geek who loved weight lifting, anime, and video games.
@@ -36,10 +36,10 @@ After a year of experimental treatment, I was physically, emotionally, and menta
     
     <item>
       <title>Contact</title>
-      <link>http://spiritualizing.technology/contact/</link>
+      <link>https://spiritualizing.technology/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://spiritualizing.technology/contact/</guid>
+      <guid>https://spiritualizing.technology/contact/</guid>
       <description>Your NameEmail AddressAn email address is required.Message</description>
     </item>
     

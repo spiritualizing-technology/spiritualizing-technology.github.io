@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Spiritualizing Technology</title>
-    <link>http://spiritualizing.technology/posts/</link>
+    <link>https://spiritualizing.technology/posts/</link>
     <description>Recent content in Articles on Spiritualizing Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 21:07:17 -0400</lastBuildDate>
     
-	<atom:link href="http://spiritualizing.technology/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spiritualizing.technology/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>http://spiritualizing.technology/posts/my-first-post/</link>
+      <link>https://spiritualizing.technology/posts/my-first-post/</link>
       <pubDate>Sat, 25 Apr 2020 21:07:17 -0400</pubDate>
       
-      <guid>http://spiritualizing.technology/posts/my-first-post/</guid>
+      <guid>https://spiritualizing.technology/posts/my-first-post/</guid>
       <description>Hello World!</description>
     </item>
     
